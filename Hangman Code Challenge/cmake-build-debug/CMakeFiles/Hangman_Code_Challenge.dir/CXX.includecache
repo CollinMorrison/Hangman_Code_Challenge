@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Collin Morrison/CLionProjects/Hangman Code Challenge/main.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+
